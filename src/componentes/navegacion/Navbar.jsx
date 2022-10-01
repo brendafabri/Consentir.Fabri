@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import  CartWidget  from "../CartWidget/CartWidget";
+import  CartWidget  from "../CartWidget/Cartwidget";
 import { Link } from "react-router-dom";
 import {CATEGORY_RECARGAS, CATEGORY_CERAMICA} from "../../constants"
 
